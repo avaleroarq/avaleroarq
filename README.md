@@ -3,7 +3,6 @@
 
 
 ## 🌐 Redes Sociales:
-[![Web](https://img.shields.io/badge/Web%20-8A2BE2)](https://www.notion.so/angelvalero/Angel-Valero-810415de27b04f7ea582098c45ce2661https://www.notion.so/angelvalero/Angel-Valero-810415de27b04f7ea582098c45ce2661)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angelvalero/) 
 
 
