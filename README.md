@@ -9,6 +9,6 @@
 ## 💻 Habilidades:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,sketchup,github,ai,ps, notion,py,pycharm," />
+    <img src="https://skillicons.dev/icons?i=autocad,sketchup,github,ai,ps,notion,py,pycharm," />
   </a>
 </p>
